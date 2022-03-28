@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to RidvanTaskiran's slide!"
 ---
-New commentsss
+This is my slide
 Use the left arrow to go back
